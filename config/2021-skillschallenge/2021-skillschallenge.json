@@ -1,0 +1,10 @@
+{
+    "game" : "Skills Challenge",
+    "field-image" : "2021-Field.png",
+    "field-corners": {
+        "top-left" : [124, 25],
+        "bottom-right" : [664, 296]
+    },
+    "field-size" : [30.0, 15.0],
+    "field-unit" : "foot"
+}
