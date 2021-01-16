@@ -1,9 +1,9 @@
 {
   "lengthUnit": "Foot",
   "exportUnit": "Same as Project",
-  "maxVelocity": 47.0,
-  "maxAcceleration": 53.0,
-  "wheelBase": 12.0,
+  "maxVelocity": 10.0,
+  "maxAcceleration": 60.0,
+  "wheelBase": 2.0,
   "gameName": "Skills Challenge",
   "outputDir": ".."
 }
