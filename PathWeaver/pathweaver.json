@@ -3,7 +3,7 @@
   "exportUnit": "Always Meters",
   "maxVelocity": 5.4,
   "maxAcceleration": 5.0,
-  "wheelBase": 2.24031946,
+  "wheelBase": 2.2403194,
   "gameName": "Skills Challenge",
   "outputDir": "../../src/main/deploy/paths"
 }
